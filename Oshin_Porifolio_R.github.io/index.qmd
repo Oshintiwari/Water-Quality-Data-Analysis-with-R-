@@ -1,0 +1,28 @@
+---
+title: "Oshin Tiwari"
+image: Headshot.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/oshin-tiwari/
+    - text: GitHub
+      href: https://github.com/Oshintiwari
+    - text: Email
+      href: mailto:oshin09@colostate.edu
+---
+
+Oshin is pursuing her master\'s degree in Computer Engineering from Colorado State University, anticipated to graduate in the spring of 2023. Her focus of study/research is machine learning, data science, and data engineering, along with their applications such as autonomous driving and whole-body GAN generation. She completed her bachelor\'s degree in Electronics and Instrumentation Engineering at the State University, Shri Govindram Seksaria Institute of Technology and Sciences, Indore. During her undergraduate years, she found a strong affinity towards subjects like control systems, signal and systems, and sensors and transducers which laid the foundation for technological prowess and instrumentation acumen for her. Apart from academics, Oshin has a strong fondness for music and likes to write songs and has also learned to play guitar and piano at an intermediate level. She also indulges in playing sports games such as badminton, basketball, and swimming in her spare time.
+
+[**Education:**]{.underline}
+
+-   **Bachelor of Technology, Electronics and Instrumentation Engineering**
+
+Shri Govindram Seksaria Institute of Technology, India (2017-2021)
+
+-   **Masters of Science, Computer Engineering**
+
+Colorado State University, USA (2021-2023)

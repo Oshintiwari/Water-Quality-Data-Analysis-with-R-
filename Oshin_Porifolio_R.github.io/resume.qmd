@@ -1,0 +1,9 @@
+---
+title: "Resume"
+image: resume_image.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 50em
+---

@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Oshin Tiwari"
+  navbar:
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - resume.qmd
+     - project.qmd
+
+format:
+  html:
+    theme:
+      light: Spacelab
+      dark: solar
+    css: styles.css
+
+editor: visual
+

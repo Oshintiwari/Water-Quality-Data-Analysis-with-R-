@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oshin Tiwari",
+    "section": "",
+    "text": "Oshin is pursuing her master's degree in Computer Engineering from Colorado State University, anticipated to graduate in the spring of 2023. Her focus of study/research is machine learning, data science, and data engineering, along with their applications such as autonomous driving and whole-body GAN generation. She completed her bachelor's degree in Electronics and Instrumentation Engineering at the State University, Shri Govindram Seksaria Institute of Technology and Sciences, Indore. During her undergraduate years, she found a strong affinity towards subjects like control systems, signal and systems, and sensors and transducers which laid the foundation for technological prowess and instrumentation acumen for her. Apart from academics, Oshin has a strong fondness for music and likes to write songs and has also learned to play guitar and piano at an intermediate level. She also indulges in playing sports games such as badminton, basketball, and swimming in her spare time.\nEducation:\n\nBachelor of Technology, Electronics and Instrumentation Engineering\n\nShri Govindram Seksaria Institute of Technology, India (2017-2021)\n\nMasters of Science, Computer Engineering\n\nColorado State University, USA (2021-2023)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Research Project",
+    "section": "",
+    "text": "Comparative Analysis of Seg-Net and U-Net Architectures for Pix2Pix Image Translation\nIn this study, we conducted a comprehensive analysis of two prominent neural network architectures, U-Net and SegNet, within the Pix2Pix framework, focusing on their performance in image translation tasks. Our investigation revealed valuable insights into the comparative strengths and weaknesses of these models. We observed that both U-Net and SegNet possess the capacity to learn image translation tasks, but the key differentiator lies in the efficiency and speed of their training. SegNet exhibits a significant advantage, reaching its minimal loss values earlier in the training process at around 5000 epochs, and doing so in less than 50% of the wall clock time required by the U-Net. This suggests that SegNet is a more time-efficient choice for training image translation models. Our findings suggest that SegNet is a more efficient model for image translation tasks, especially if training time is a constraint. However, it is important to note that the L1 loss is not the only metric that can be used to evaluate the performance of a Pix2Pix model. Other metrics, such as the perceptual loss and the structural similarity index measure (SSIM), can also be used to assess the quality of the generated images in terms of their realness, naturalness, and fidelity to the target image. Future work could explore the use of different loss functions and training techniques to improve the performance of both U-Net and SegNet for image translation tasks. Additionally, it would be interesting to evaluate the performance of these models on a wider range of image translation tasks, such as style transfer and colorization, to gain a better understanding of how these models perform under different conditions, identify new tasks where they can be applied, and develop new training techniques and loss functions to further improve their performance."
+  }
+]
